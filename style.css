@@ -2,6 +2,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-image: url(images/patt.png);
 }
 
 * {
@@ -80,4 +81,7 @@ body {
   padding-right: 15px;
 }
 
-.header {}
+.header {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 25px 0;
+}
